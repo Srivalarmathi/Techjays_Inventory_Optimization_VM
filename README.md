@@ -1,7 +1,8 @@
 # Techjays Inventory Optimization – Demand Forecasting & Stock Recommendations
 
 Author: **Valarmathi Ganessin VM**  
-Environment: **Python (Google Colab)**  
+Environment: **Python (Google Colab)** 
+Date: **14/01/2026**
 
 ---
 
